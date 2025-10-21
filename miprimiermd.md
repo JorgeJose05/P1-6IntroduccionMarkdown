@@ -19,9 +19,9 @@ console.log(codigo)
 - Sexto
 
 Este es el enlace a [Duck Duck Go](https://duckduckgo.com)
-[File] (/otromarkdown.md)
+![File](otromarkdown.md)
 
-![Foto](P1-6/P1-6IntroduccionMarkdown/image.png)
+![Foto](image.png)
 
 |Campo1 | Campo2 |
 |-------|--------|
