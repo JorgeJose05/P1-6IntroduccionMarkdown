@@ -21,7 +21,7 @@ console.log(codigo)
 Este es el enlace a [Duck Duck Go](https://duckduckgo.com)
 ![File](otromarkdown.md)
 
-![Foto](image.png)
+![Foto](image.jpg)
 
 |Campo1 | Campo2 |
 |-------|--------|
